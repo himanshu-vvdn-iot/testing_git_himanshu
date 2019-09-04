@@ -1,0 +1,407 @@
+-rw-r--r-- 1 root   root   6.8K Aug  3 10:50 audio_video.sh
+-rwxr-xr-x 1 root   root    39K Aug  3 10:55 tegrastats
+-rw-r--r-- 1 root   root     55 Aug  3 10:57 tegrastats_log.sh
+-rw-r--r-- 1 root   root   760K Aug  3 11:44 logs_without_fan.txt
+-rw-r--r-- 1 root   root      0 Aug 26 10:32 tets
+-rw-r--r-- 1 root   root      0 Aug 26 10:32 test
+-rw-r--r-- 1 root   root    58K Aug 29 07:35 ntdi_userspace_api_logs.txt.1.gz
+-rw-r--r-- 1 root   root    216 Aug 29 13:06 ping.sh
+-rw-r--r-- 1 root   root    202 Aug 29 13:08 lsusb.sh
+-rw-r--r-- 1 root   root   848K Aug 29 13:35 1mcablesierradetection
+-rw-r--r-- 1 root   root   223K Aug 29 13:36 ntdi_userspace_api_logs.txt
+-rw-r--r-- 1 root   root    58M Sep  4 08:57 out_video00.mp4
+-rw-r--r-- 1 root   root   3.0K Sep  4 13:37 LTE_Long_test_branch.sh~
+-rw-r--r-- 1 root   root    13K Sep  4 15:11 ftp_before_new_setup.txt
+-rw-r--r-- 1 root   root   3.0K Sep  4 15:48 LTE_Long_test_branch.sh
+-rw-r--r-- 1 root   root   2.4K Sep  4 15:53 ftp_logs.txt
+-rw-r--r-- 1 root   root   4.0K Sep  4 15:56 ConnectionManager.txt
+
+Videos:
+total 0
+
+Templates:
+total 0
+
+Public:
+total 0
+
+Pictures:
+total 0
+
+Music:
+total 0
+
+Downloads:
+total 0
+
+Documents:
+total 0
+
+Desktop:
+total 0
+
+TestReport:
+total 0
+
+thermal_app:
+total 24K
+drwxr-xr-x 12 root root 4.0K Jul 27 09:24 src
+drwxr-xr-x  2 root root 4.0K Jul 27 09:24 data
+-rw-r--r--  1 root root  231 Jul 27 09:24 def.mk
+drwxr-xr-x  2 root root 4.0K Jul 27 09:24 bin
+-rw-r--r--  1 root root  566 Jul 27 09:24 Makefile
+drwxr-xr-x  3 root root 4.0K Aug  3 10:49 script
+
+cuda-l4t:
+total 1.2G
+-rwxrwxr-x 1 ubuntu ubuntu 1.2K Jul  1 07:24 cuda-l4t.sh
+-rw-rw-r-- 1 ubuntu ubuntu 1.2G Jul  1 07:46 cuda-repo-l4t-8-0-local_8.0.84-1_arm64.deb
+-rw-rw-r-- 1 ubuntu ubuntu  304 Jul  1 07:56 cuda_l4t_error.log
+
+temp_logs:
+total 40K
+-rw-r--r-- 1 root root 37K Aug 24 11:23 temp_log_open_board_covered_hs.txt
+
+new_close_housing_new_HS_:
+total 176K
+-rw-r--r-- 1 root root 176K Aug 24 13:08 temp_log.txt
+
+logs_ambient:
+total 8.8M
+-rw-r--r-- 1 root root 750K Aug 28 03:44 adc_log.txt
+-rw-r--r-- 1 root root  28K Aug 28 03:44 fan_rpm_log.txt
+-rw-r--r-- 1 root root 160K Aug 28 03:44 camera_recording_log.txt
+-rw-r--r-- 1 root root 1.1K Aug 28 03:44 bluetooth_log.txt
+-rw-r--r-- 1 root root  31K Aug 28 03:44 arecord_log.txt
+-rw-r--r-- 1 root root 203K Aug 28 03:44 lte_gps_log.txt
+-rw-r--r-- 1 root root 172K Aug 28 03:44 led_log.txt
+-rw-r--r-- 1 root root 1.6M Aug 28 03:44 imu_log.txt
+-rw-r--r-- 1 root root 3.9M Aug 28 03:44 mic_testing.wav
+-rw-r--r-- 1 root root   65 Aug 28 03:44 spi_flash_log.txt
+-rw-r--r-- 1 root root 269K Aug 28 03:44 photodiode_log.txt
+-rw-r--r-- 1 root root 1.1K Aug 28 03:44 wireless_log.txt
+-rw-r--r-- 1 root root 276K Aug 28 03:44 version_log.txt
+-rw-r--r-- 1 root root 1.9K Aug 28 03:44 ubx_gps_log.txt
+-rw-r--r-- 1 root root  70K Aug 28 03:44 thermal_obd.txt
+-rw-r--r-- 1 root root 1.5M Aug 28 03:44 temp_log.txt
+
+videos:
+total 7.6M
+-rw-r--r-- 1 root root    0 Aug 29 13:36 left_video00.mp4
+-rw-r--r-- 1 root root 6.2M Aug 29 13:36 in_video00.mp4
+-rw-r--r-- 1 root root    0 Aug 29 13:36 out_video00.mp4
+-rw-r--r-- 1 root root 1.5M Aug 29 13:36 right_video00.mp4
+
+LTE_LONG_TEST:
+total 20K
+drwxr-xr-x 2 root root 4.0K Sep  4 12:15 test
+drwxr-xr-x 4 root root 4.0K Sep  4 14:58 Recv
+drwxr-xr-x 4 root root 4.0K Sep  4 14:59 Send
+drwxr-xr-x 3 root root 4.0K Sep  4 15:45 recv
+drwxr-xr-x 3 root root 4.0K Sep  4 15:46 send
+-rw-r--r-- 1 root   root   6.8K Aug  3 10:50 audio_video.sh
+-rwxr-xr-x 1 root   root    39K Aug  3 10:55 tegrastats
+-rw-r--r-- 1 root   root     55 Aug  3 10:57 tegrastats_log.sh
+-rw-r--r-- 1 root   root   760K Aug  3 11:44 logs_without_fan.txt
+-rw-r--r-- 1 root   root      0 Aug 26 10:32 tets
+-rw-r--r-- 1 root   root      0 Aug 26 10:32 test
+-rw-r--r-- 1 root   root    58K Aug 29 07:35 ntdi_userspace_api_logs.txt.1.gz
+-rw-r--r-- 1 root   root    216 Aug 29 13:06 ping.sh
+-rw-r--r-- 1 root   root    202 Aug 29 13:08 lsusb.sh
+-rw-r--r-- 1 root   root   848K Aug 29 13:35 1mcablesierradetection
+-rw-r--r-- 1 root   root   223K Aug 29 13:36 ntdi_userspace_api_logs.txt
+-rw-r--r-- 1 root   root    58M Sep  4 08:57 out_video00.mp4
+-rw-r--r-- 1 root   root   3.0K Sep  4 13:37 LTE_Long_test_branch.sh~
+-rw-r--r-- 1 root   root    13K Sep  4 15:11 ftp_before_new_setup.txt
+-rw-r--r-- 1 root   root   3.0K Sep  4 15:48 LTE_Long_test_branch.sh
+-rw-r--r-- 1 root   root   2.4K Sep  4 15:53 ftp_logs.txt
+-rw-r--r-- 1 root   root   3.4K Sep  4 15:56 himanshu.txt
+-rw-r--r-- 1 root   root   4.0K Sep  4 15:56 ConnectionManager.txt
+
+Videos:
+total 0
+
+Templates:
+total 0
+
+Public:
+total 0
+
+Pictures:
+total 0
+
+Music:
+total 0
+
+Downloads:
+total 0
+
+Documents:
+total 0
+
+Desktop:
+total 0
+
+TestReport:
+total 0
+
+thermal_app:
+total 24K
+drwxr-xr-x 12 root root 4.0K Jul 27 09:24 src
+drwxr-xr-x  2 root root 4.0K Jul 27 09:24 data
+-rw-r--r--  1 root root  231 Jul 27 09:24 def.mk
+drwxr-xr-x  2 root root 4.0K Jul 27 09:24 bin
+-rw-r--r--  1 root root  566 Jul 27 09:24 Makefile
+drwxr-xr-x  3 root root 4.0K Aug  3 10:49 script
+
+cuda-l4t:
+total 1.2G
+-rwxrwxr-x 1 ubuntu ubuntu 1.2K Jul  1 07:24 cuda-l4t.sh
+-rw-rw-r-- 1 ubuntu ubuntu 1.2G Jul  1 07:46 cuda-repo-l4t-8-0-local_8.0.84-1_arm64.deb
+-rw-rw-r-- 1 ubuntu ubuntu  304 Jul  1 07:56 cuda_l4t_error.log
+
+temp_logs:
+total 40K
+-rw-r--r-- 1 root root 37K Aug 24 11:23 temp_log_open_board_covered_hs.txt
+
+new_close_housing_new_HS_:
+total 176K
+-rw-r--r-- 1 root root 176K Aug 24 13:08 temp_log.txt
+
+logs_ambient:
+total 8.8M
+-rw-r--r-- 1 root root 750K Aug 28 03:44 adc_log.txt
+-rw-r--r-- 1 root root  28K Aug 28 03:44 fan_rpm_log.txt
+-rw-r--r-- 1 root root 160K Aug 28 03:44 camera_recording_log.txt
+-rw-r--r-- 1 root root 1.1K Aug 28 03:44 bluetooth_log.txt
+-rw-r--r-- 1 root root  31K Aug 28 03:44 arecord_log.txt
+-rw-r--r-- 1 root root 203K Aug 28 03:44 lte_gps_log.txt
+-rw-r--r-- 1 root root 172K Aug 28 03:44 led_log.txt
+-rw-r--r-- 1 root root 1.6M Aug 28 03:44 imu_log.txt
+-rw-r--r-- 1 root root 3.9M Aug 28 03:44 mic_testing.wav
+-rw-r--r-- 1 root root   65 Aug 28 03:44 spi_flash_log.txt
+-rw-r--r-- 1 root root 269K Aug 28 03:44 photodiode_log.txt
+-rw-r--r-- 1 root root 1.1K Aug 28 03:44 wireless_log.txt
+-rw-r--r-- 1 root root 276K Aug 28 03:44 version_log.txt
+-rw-r--r-- 1 root root 1.9K Aug 28 03:44 ubx_gps_log.txt
+-rw-r--r-- 1 root root  70K Aug 28 03:44 thermal_obd.txt
+-rw-r--r-- 1 root root 1.5M Aug 28 03:44 temp_log.txt
+
+videos:
+total 7.6M
+-rw-r--r-- 1 root root    0 Aug 29 13:36 left_video00.mp4
+-rw-r--r-- 1 root root 6.2M Aug 29 13:36 in_video00.mp4
+-rw-r--r-- 1 root root    0 Aug 29 13:36 out_video00.mp4
+-rw-r--r-- 1 root root 1.5M Aug 29 13:36 right_video00.mp4
+
+LTE_LONG_TEST:
+total 20K
+drwxr-xr-x 2 root root 4.0K Sep  4 12:15 test
+drwxr-xr-x 4 root root 4.0K Sep  4 14:58 Recv
+drwxr-xr-x 4 root root 4.0K Sep  4 14:59 Send
+drwxr-xr-x 3 root root 4.0K Sep  4 15:45 recv
+drwxr-xr-x 3 root root 4.0K Sep  4 15:46 send
+-rw-r--r-- 1 root   root   6.8K Aug  3 10:50 audio_video.sh
+-rwxr-xr-x 1 root   root    39K Aug  3 10:55 tegrastats
+-rw-r--r-- 1 root   root     55 Aug  3 10:57 tegrastats_log.sh
+-rw-r--r-- 1 root   root   760K Aug  3 11:44 logs_without_fan.txt
+-rw-r--r-- 1 root   root      0 Aug 26 10:32 tets
+-rw-r--r-- 1 root   root      0 Aug 26 10:32 test
+-rw-r--r-- 1 root   root    58K Aug 29 07:35 ntdi_userspace_api_logs.txt.1.gz
+-rw-r--r-- 1 root   root    216 Aug 29 13:06 ping.sh
+-rw-r--r-- 1 root   root    202 Aug 29 13:08 lsusb.sh
+-rw-r--r-- 1 root   root   848K Aug 29 13:35 1mcablesierradetection
+-rw-r--r-- 1 root   root   223K Aug 29 13:36 ntdi_userspace_api_logs.txt
+-rw-r--r-- 1 root   root    58M Sep  4 08:57 out_video00.mp4
+-rw-r--r-- 1 root   root   3.0K Sep  4 13:37 LTE_Long_test_branch.sh~
+-rw-r--r-- 1 root   root    13K Sep  4 15:11 ftp_before_new_setup.txt
+-rw-r--r-- 1 root   root   3.0K Sep  4 15:48 LTE_Long_test_branch.sh
+-rw-r--r-- 1 root   root   2.4K Sep  4 15:53 ftp_logs.txt
+-rw-r--r-- 1 root   root   6.8K Sep  4 15:56 himanshu.txt
+-rw-r--r-- 1 root   root   4.0K Sep  4 15:56 ConnectionManager.txt
+
+Videos:
+total 0
+
+Templates:
+total 0
+
+Public:
+total 0
+
+Pictures:
+total 0
+
+Music:
+total 0
+
+Downloads:
+total 0
+
+Documents:
+total 0
+
+Desktop:
+total 0
+
+TestReport:
+total 0
+
+thermal_app:
+total 24K
+drwxr-xr-x 12 root root 4.0K Jul 27 09:24 src
+drwxr-xr-x  2 root root 4.0K Jul 27 09:24 data
+-rw-r--r--  1 root root  231 Jul 27 09:24 def.mk
+drwxr-xr-x  2 root root 4.0K Jul 27 09:24 bin
+-rw-r--r--  1 root root  566 Jul 27 09:24 Makefile
+drwxr-xr-x  3 root root 4.0K Aug  3 10:49 script
+
+cuda-l4t:
+total 1.2G
+-rwxrwxr-x 1 ubuntu ubuntu 1.2K Jul  1 07:24 cuda-l4t.sh
+-rw-rw-r-- 1 ubuntu ubuntu 1.2G Jul  1 07:46 cuda-repo-l4t-8-0-local_8.0.84-1_arm64.deb
+-rw-rw-r-- 1 ubuntu ubuntu  304 Jul  1 07:56 cuda_l4t_error.log
+
+temp_logs:
+total 40K
+-rw-r--r-- 1 root root 37K Aug 24 11:23 temp_log_open_board_covered_hs.txt
+
+new_close_housing_new_HS_:
+total 176K
+-rw-r--r-- 1 root root 176K Aug 24 13:08 temp_log.txt
+
+logs_ambient:
+total 8.8M
+-rw-r--r-- 1 root root 750K Aug 28 03:44 adc_log.txt
+-rw-r--r-- 1 root root  28K Aug 28 03:44 fan_rpm_log.txt
+-rw-r--r-- 1 root root 160K Aug 28 03:44 camera_recording_log.txt
+-rw-r--r-- 1 root root 1.1K Aug 28 03:44 bluetooth_log.txt
+-rw-r--r-- 1 root root  31K Aug 28 03:44 arecord_log.txt
+-rw-r--r-- 1 root root 203K Aug 28 03:44 lte_gps_log.txt
+-rw-r--r-- 1 root root 172K Aug 28 03:44 led_log.txt
+-rw-r--r-- 1 root root 1.6M Aug 28 03:44 imu_log.txt
+-rw-r--r-- 1 root root 3.9M Aug 28 03:44 mic_testing.wav
+-rw-r--r-- 1 root root   65 Aug 28 03:44 spi_flash_log.txt
+-rw-r--r-- 1 root root 269K Aug 28 03:44 photodiode_log.txt
+-rw-r--r-- 1 root root 1.1K Aug 28 03:44 wireless_log.txt
+-rw-r--r-- 1 root root 276K Aug 28 03:44 version_log.txt
+-rw-r--r-- 1 root root 1.9K Aug 28 03:44 ubx_gps_log.txt
+-rw-r--r-- 1 root root  70K Aug 28 03:44 thermal_obd.txt
+-rw-r--r-- 1 root root 1.5M Aug 28 03:44 temp_log.txt
+
+videos:
+total 7.6M
+-rw-r--r-- 1 root root    0 Aug 29 13:36 left_video00.mp4
+-rw-r--r-- 1 root root 6.2M Aug 29 13:36 in_video00.mp4
+-rw-r--r-- 1 root root    0 Aug 29 13:36 out_video00.mp4
+-rw-r--r-- 1 root root 1.5M Aug 29 13:36 right_video00.mp4
+
+LTE_LONG_TEST:
+total 20K
+drwxr-xr-x 2 root root 4.0K Sep  4 12:15 test
+drwxr-xr-x 4 root root 4.0K Sep  4 14:58 Recv
+drwxr-xr-x 4 root root 4.0K Sep  4 14:59 Send
+drwxr-xr-x 3 root root 4.0K Sep  4 15:45 recv
+drwxr-xr-x 3 root root 4.0K Sep  4 15:46 send
+-rw-r--r-- 1 root   root   6.8K Aug  3 10:50 audio_video.sh
+-rwxr-xr-x 1 root   root    39K Aug  3 10:55 tegrastats
+-rw-r--r-- 1 root   root     55 Aug  3 10:57 tegrastats_log.sh
+-rw-r--r-- 1 root   root   760K Aug  3 11:44 logs_without_fan.txt
+-rw-r--r-- 1 root   root      0 Aug 26 10:32 tets
+-rw-r--r-- 1 root   root      0 Aug 26 10:32 test
+-rw-r--r-- 1 root   root    58K Aug 29 07:35 ntdi_userspace_api_logs.txt.1.gz
+-rw-r--r-- 1 root   root    216 Aug 29 13:06 ping.sh
+-rw-r--r-- 1 root   root    202 Aug 29 13:08 lsusb.sh
+-rw-r--r-- 1 root   root   848K Aug 29 13:35 1mcablesierradetection
+-rw-r--r-- 1 root   root   223K Aug 29 13:36 ntdi_userspace_api_logs.txt
+-rw-r--r-- 1 root   root    58M Sep  4 08:57 out_video00.mp4
+-rw-r--r-- 1 root   root   3.0K Sep  4 13:37 LTE_Long_test_branch.sh~
+-rw-r--r-- 1 root   root    13K Sep  4 15:11 ftp_before_new_setup.txt
+-rw-r--r-- 1 root   root   3.0K Sep  4 15:48 LTE_Long_test_branch.sh
+-rw-r--r-- 1 root   root   2.4K Sep  4 15:53 ftp_logs.txt
+-rw-r--r-- 1 root   root    11K Sep  4 15:56 himanshu.txt
+-rw-r--r-- 1 root   root   4.0K Sep  4 15:57 ConnectionManager.txt
+
+Videos:
+total 0
+
+Templates:
+total 0
+
+Public:
+total 0
+
+Pictures:
+total 0
+
+Music:
+total 0
+
+Downloads:
+total 0
+
+Documents:
+total 0
+
+Desktop:
+total 0
+
+TestReport:
+total 0
+
+thermal_app:
+total 24K
+drwxr-xr-x 12 root root 4.0K Jul 27 09:24 src
+drwxr-xr-x  2 root root 4.0K Jul 27 09:24 data
+-rw-r--r--  1 root root  231 Jul 27 09:24 def.mk
+drwxr-xr-x  2 root root 4.0K Jul 27 09:24 bin
+-rw-r--r--  1 root root  566 Jul 27 09:24 Makefile
+drwxr-xr-x  3 root root 4.0K Aug  3 10:49 script
+
+cuda-l4t:
+total 1.2G
+-rwxrwxr-x 1 ubuntu ubuntu 1.2K Jul  1 07:24 cuda-l4t.sh
+-rw-rw-r-- 1 ubuntu ubuntu 1.2G Jul  1 07:46 cuda-repo-l4t-8-0-local_8.0.84-1_arm64.deb
+-rw-rw-r-- 1 ubuntu ubuntu  304 Jul  1 07:56 cuda_l4t_error.log
+
+temp_logs:
+total 40K
+-rw-r--r-- 1 root root 37K Aug 24 11:23 temp_log_open_board_covered_hs.txt
+
+new_close_housing_new_HS_:
+total 176K
+-rw-r--r-- 1 root root 176K Aug 24 13:08 temp_log.txt
+
+logs_ambient:
+total 8.8M
+-rw-r--r-- 1 root root 750K Aug 28 03:44 adc_log.txt
+-rw-r--r-- 1 root root  28K Aug 28 03:44 fan_rpm_log.txt
+-rw-r--r-- 1 root root 160K Aug 28 03:44 camera_recording_log.txt
+-rw-r--r-- 1 root root 1.1K Aug 28 03:44 bluetooth_log.txt
+-rw-r--r-- 1 root root  31K Aug 28 03:44 arecord_log.txt
+-rw-r--r-- 1 root root 203K Aug 28 03:44 lte_gps_log.txt
+-rw-r--r-- 1 root root 172K Aug 28 03:44 led_log.txt
+-rw-r--r-- 1 root root 1.6M Aug 28 03:44 imu_log.txt
+-rw-r--r-- 1 root root 3.9M Aug 28 03:44 mic_testing.wav
+-rw-r--r-- 1 root root   65 Aug 28 03:44 spi_flash_log.txt
+-rw-r--r-- 1 root root 269K Aug 28 03:44 photodiode_log.txt
+-rw-r--r-- 1 root root 1.1K Aug 28 03:44 wireless_log.txt
+-rw-r--r-- 1 root root 276K Aug 28 03:44 version_log.txt
+-rw-r--r-- 1 root root 1.9K Aug 28 03:44 ubx_gps_log.txt
+-rw-r--r-- 1 root root  70K Aug 28 03:44 thermal_obd.txt
+-rw-r--r-- 1 root root 1.5M Aug 28 03:44 temp_log.txt
+
+videos:
+total 7.6M
+-rw-r--r-- 1 root root    0 Aug 29 13:36 left_video00.mp4
+-rw-r--r-- 1 root root 6.2M Aug 29 13:36 in_video00.mp4
+-rw-r--r-- 1 root root    0 Aug 29 13:36 out_video00.mp4
+-rw-r--r-- 1 root root 1.5M Aug 29 13:36 right_video00.mp4
+
+LTE_LONG_TEST:
+total 20K
+drwxr-xr-x 2 root root 4.0K Sep  4 12:15 test
+drwxr-xr-x 4 root root 4.0K Sep  4 14:58 Recv
+drwxr-xr-x 4 root root 4.0K Sep  4 14:59 Send
+drwxr-xr-x 3 root root 4.0K Sep  4 15:45 recv
+drwxr-xr-x 3 root root 4.0K Sep  4 15:46 send
